@@ -1,0 +1,14 @@
+Solution to my level-1 challenge of google foobar challenge, i-love-jane-janice
+
+DO NOT COPY THIS.
+
+The task was to decrypt the encrypted code.
+-- All the lowercase alphabets in [a,b,.....,z] have to be replaced by lowercase [z,y,.....a].
+-- All the other characters have to left untouched
+
+>>>Test case:
+>>>I have used a test case in the sol6.py, which is the one same in google-foobar challenge.
+>>>Try with "vmxibkgrlm", it should return the string "encryption"
+
+PS: Sol6 cuz first 5 sols had some minor bugs 
+
