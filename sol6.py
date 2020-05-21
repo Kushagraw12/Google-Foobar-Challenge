@@ -1,4 +1,4 @@
-s = "wrw blf hvv ozhg mrtsg'h vkrhlwv?"
+#s = "wrw blf hvv ozhg mrtsg'h vkrhlwv?"
 
 
 def answer(s):
@@ -15,4 +15,4 @@ def answer(s):
     return str(output)
 
 
-print(answer(s))
+#print(answer(s))
