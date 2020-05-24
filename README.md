@@ -10,4 +10,7 @@ After unlocking the challenge; Congratulations!!!
 Now try to solve it first on your own, refer to this solution, only when you are stuck!
 And, Do not copy!
 
-Happy Coding!
+LEVEL-1: i-love-jane-janice; solution: sol6.py
+LEVEL-2: a: dont-getvolunteered; question: question.txt; solution: sol5.py
+
+Happy Coding! 
