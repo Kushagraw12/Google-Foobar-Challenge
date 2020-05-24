@@ -10,4 +10,4 @@ After unlocking the challenge; Congratulations!!!
 Now try to solve it first on your own, refer to this solution, only when you are stuck!
 And, Do not copy!
 
-Happy Codig!
+Happy Coding!
