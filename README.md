@@ -11,9 +11,10 @@ After unlocking the challenge; Congratulations!!!
 ## LEVEL-1: 
 i-love-jane-janice; Question: [Question 1](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/i-love-jane-janice.png)
 ## LEVEL-2: 
-1: dont-getvolunteered; Question: [Question 2.1](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/question.txt)
+1: dont-get-volunteered; Question: [Question 2.1](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/question.txt)
 
 2: lovely-lucky-lambs; Question: [Question 2.2](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/Question2.2.txt)
 
 ```python
-  HAPPY CODING!
+  print(HAPPY CODING!)
+```
