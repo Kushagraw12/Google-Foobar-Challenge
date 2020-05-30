@@ -8,9 +8,9 @@ Practice with these questions!
 
 After unlocking the challenge; Congratulations!!!
 
-# LEVEL-1: 
-i-love-jane-janice 
-# LEVEL-2: 
-1: dont-getvolunteered; question: [a link](https://github.com/Kushagraw12/Google-Foobar-Challenge/question.txt)
-2: lovely-lucy-lambs; question: Question.txt
+## LEVEL-1: 
+i-love-jane-janice; Question
+## LEVEL-2: 
+1: dont-getvolunteered; Question: [a link](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/question.txt)
+2: lovely-lucy-lambs; Question: Question.txt
 Happy Coding! 
