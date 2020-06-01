@@ -15,6 +15,9 @@ i-love-jane-janice; Question: [Question 1](https://github.com/Kushagraw12/Google
 
 2: lovely-lucky-lambs; Question: [Question 2.2](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/Question2.2.txt)
 
+## LEVEL-3:
+1: Fuel Injection Perfection; Question: [Question 3.1](https://github.com/Kushagraw12/Google-Foobar-Challenge/blob/master/Fuel%20Injection%20Perfection)
+
 ```python
   print('HAPPY CODING!')
 ```
